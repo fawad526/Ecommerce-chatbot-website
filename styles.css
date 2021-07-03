@@ -364,10 +364,4 @@ select:focus{
 	height: 40px;
 	text-align: center;
 	line-height: 40px;
-	cursor: pointer;
 }
-.page-btn span:hover{
-	background: #ff523b;
-	color:#fff;
-}
-
